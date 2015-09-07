@@ -171,7 +171,7 @@ module.exports = {
 		// @type     string
 		// @default  "Shout User"
 		//
-		realname: "Your name",
+		realname: "Enter your name (optional)",
 
 		//
 		// Channels
