@@ -1,4 +1,4 @@
-# [OpenHack London] Chatroom
+# OpenHack London Chatroom
 
 ### Visit http://openhack-london.herokuapp.com
 
@@ -26,5 +26,7 @@ but we'll pull in any updates when they're available.
 Have an idea or suggestion for how to improve the chatroom?
 Please [open an issue] or pull request.
 
-[OpenHack London]: http://openhack.github.io/london/
+[![](http://i.imgur.com/IXfv1SW.png)][OpenHackLDN]
+
+[OpenHackLDN]: http://openhack.github.io/london/
 [open an issue]: /../../issues/new
