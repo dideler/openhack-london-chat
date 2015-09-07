@@ -73,7 +73,7 @@ module.exports = {
 	// @type     boolean
 	// @default  true
 	//
-	displayNetwork: true,
+	displayNetwork: false,
 
 	//
 	// Log settings
@@ -155,7 +155,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		nick: "shout-user",
+		nick: "openhacker-123",
 
 		//
 		// Username
@@ -163,7 +163,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		username: "shout-user",
+		username: "openhacker",
 
 		//
 		// Real Name
@@ -171,7 +171,7 @@ module.exports = {
 		// @type     string
 		// @default  "Shout User"
 		//
-		realname: "Shout User",
+		realname: "Your name",
 
 		//
 		// Channels
@@ -179,7 +179,7 @@ module.exports = {
 		// @type     string
 		// @default  "#foo, #shout-irc"
 		//
-		join: "#foo, #shout-irc"
+		join: "#openhack-london"
 	},
 
 	//
