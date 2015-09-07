@@ -9,6 +9,8 @@ That is, the **first Monday of each month from 18:30-21:00** (London time).
 
 Come in and hang out, even if you're hacking from home!
 
+*For more information about OpenHack London, see http://openhack.github.io/london*
+
 ---
 
 ### Contribute
