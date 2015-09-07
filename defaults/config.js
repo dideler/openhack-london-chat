@@ -163,7 +163,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		username: "openhacker",
+		username: "",
 
 		//
 		// Real Name
