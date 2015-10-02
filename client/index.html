@@ -86,7 +86,7 @@
 					<form class="container" action="">
 						<div class="row">
 							<div class="col-sm-12">
-								<h1 class="title">Connect to Chatroom</h1>
+								<h1 class="title">OpenHack London Chat</h1>
 							</div>
 							<div <%= typeof(displayNetwork) !== "undefined" && !displayNetwork ? 'style="display: none;"' : ''%>>
 								<div class="col-sm-12">
@@ -126,10 +126,10 @@
 								<div class="clearfix"></div>
 							</div>
 							<div class="col-sm-12">
-								<h2>Just choose a nick and enter your name then hit 'Connect'</h2>
+                <h2>Join us every first Monday of the month<br>from 18:30 to 21:00 (London time)</h2>
 							</div>
 							<div class="col-sm-3">
-								<label>Nick</label>
+								<label>Nickname</label>
 							</div>
 							<div class="col-sm-5">
 								<input class="input nick" name="nick" value="<%= defaults.nick %>">
@@ -143,7 +143,7 @@
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-sm-3">
-								<label>Real name</label>
+								<label>First name</label>
 							</div>
 							<div class="col-sm-9">
 								<input class="input" name="realname" class="input" value="<%= defaults.realname %>">
